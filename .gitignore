@@ -1,0 +1,15 @@
+# vim
+*~
+
+# result
+dogs_vs_cats/result/
+dogs_vs_cats/output/
+
+# data
+dogs_vs_cats/data/
+dogs_vs_cats/input/
+
+# python
+__pacache__/
+dogs_vs_cats/__pacache__/
+*.pyc
